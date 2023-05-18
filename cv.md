@@ -12,6 +12,8 @@ Motivated and dedicated IT enthusiast seeking an entry-level position in [specif
 - SCC
 - JavaScript
 ## Code Example 
+
+
 ```javascript
 let num1 = 10;
 let num2 = 5;
@@ -26,6 +28,8 @@ console.log("Difference:", difference);
 console.log("Product:", product);
 console.log("Quotient:", quotient);
 ```
+
+
 ## Work Experience
 - Unfortunately I don not have experience with IT at the moment
 - Worked as cool system and air conditions engineer for 7 years 
