@@ -12,13 +12,13 @@ Motivated and dedicated IT enthusiast seeking an entry-level position in [specif
 - SCC
 - JavaScript
 ## Code Example 
-`function sum(a, b) {
-`  return a + b;
-`}
-`
-`let result = sum(1, 2);
-`alert( result );
+```function sum(a, b) {
+return a + b;
+}
 
+let result = sum(1, 2);
+alert( result );
+```
 ## Work Experience
 - Unfortunately I don not have experience with IT at the moment
 - Worked as cool system and air conditions engineer for 7 years 
