@@ -13,12 +13,18 @@ Motivated and dedicated IT enthusiast seeking an entry-level position in [specif
 - JavaScript
 ## Code Example 
 ```javascript
-function sum(a, b) {
-return a + b;
-}
+let num1 = 10;
+let num2 = 5;
 
-let result = sum(1, 2);
-alert( result );
+let sum = num1 + num2;
+let difference = num1 - num2;
+let product = num1 * num2;
+let quotient = num1 / num2;
+
+console.log("Sum:", sum);
+console.log("Difference:", difference);
+console.log("Product:", product);
+console.log("Quotient:", quotient);
 ```
 ## Work Experience
 - Unfortunately I don not have experience with IT at the moment
