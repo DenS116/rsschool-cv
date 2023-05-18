@@ -26,6 +26,6 @@ alert( result );
 # Education
 - Polytechnic College - Installation and technical operation of industrial equipment
 # Languages
+- **Russian** - Native
 - **English** - Intermediate/Upper-intermediate according to the online test at **EFset** [efset.org](https://www.efset.org/)
 <img src="https://github.com/DenS116/rsschool-cv/blob/gh-pages/images/photo_2023-05-18_18-51-08.jpg" width="350" height="350" />
-- Russian - native
