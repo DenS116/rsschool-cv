@@ -27,5 +27,10 @@ alert( result );
 - Polytechnic College - Installation and technical operation of industrial equipment
 # Languages
 - **English** - Intermediate/Upper-intermediate according to the online test at **EFset** [efset.org](www.efset.com)
-![alt text](https://github.com/DenS116/rsschool-cv/blob/gh-pages/images/photo_2023-05-18_18-51-08.jpg)
+![<img scr="https://github.com/DenS116/rsschool-cv/blob/gh-pages/images/photo_2023-05-18_18-51-08.jpg">](https://github.com/DenS116/rsschool-cv/blob/gh-pages/images/photo_2023-05-18_18-51-08.jpg)
+
+<img src="English.jpg" width="500" heigh="500" alt=""
+
+
 - Russian - native
+
