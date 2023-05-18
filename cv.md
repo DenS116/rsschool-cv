@@ -3,7 +3,7 @@
 - **Location**: Cardiff, UK
 - **Phone**: 07443 771289
 - **Email**: densuvorov116@gmail.com
-- **GitHub**: [denS116] (https://www.github.com/DenS116)
+- **GitHub**: [denS116](https://www.github.com/DenS116)
 ## About Me
 Motivated and dedicated IT enthusiast seeking an entry-level position in [specific area of IT or desired role]. Eager to apply theoretical knowledge gained through coursework and self-study to contribute to the success of a dynamic and forward-thinking organization.
 # Skils
@@ -20,7 +20,12 @@ function sum(a, b) {
 let result = sum(1, 2);
 alert( result ); 
 ```
-# Experience
-
+# Work Experience
+- Unfortunately I don not have experience with IT at the moment
+- Worked as cool system and air conditions engineer for 7 years 
 # Education
-- **College** 
+- Polytechnic College - Installation and technical operation of industrial equipment
+# Languages
+- **English** - Intermediate/Upper-intermediate according to the online test at **EFset** [efset.org](www.efset.com)
+![alt text](https://github.com/DenS116/rsschool-cv/blob/gh-pages/images/photo_2023-05-18_18-51-08.jpg)
+- Russian - native
