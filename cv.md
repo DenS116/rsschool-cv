@@ -11,14 +11,14 @@ Motivated and dedicated IT enthusiast seeking an entry-level position in [specif
 - HTML
 - SCC
 - JavaScript
-# Code Example 
-```function sum(a, b) {
-  return a + b;
-}
+## Code Example 
+`function sum(a, b) {
+`  return a + b;
+`}
+`
+`let result = sum(1, 2);
+`alert( result );
 
-let result = sum(1, 2);
-alert( result );
-```
 ## Work Experience
 - Unfortunately I don not have experience with IT at the moment
 - Worked as cool system and air conditions engineer for 7 years 
@@ -27,4 +27,4 @@ alert( result );
 ## Languages
 - **Russian** - Native
 - **English** - Intermediate/Upper-intermediate according to the online test at **EFset** [efset.org](https://www.efset.org/)
-<img src="https://dens116.github.io/rsschool-cv/cv/blob/gh-pages/images/photo_2023-05-18_18-51-08.jpg" width="350" height="350" />
+<img src="https://github.com/DenS116/rsschool-cv/blob/gh-pages/images/photo_2023-05-18_18-51-08.jpg" width="350" height="350" />
