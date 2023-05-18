@@ -12,7 +12,8 @@ Motivated and dedicated IT enthusiast seeking an entry-level position in [specif
 - SCC
 - JavaScript
 ## Code Example 
-```function sum(a, b) {
+```javascript
+function sum(a, b) {
 return a + b;
 }
 
