@@ -38,4 +38,4 @@ console.log("Quotient:", quotient);
 ## Languages
 - **Russian** - Native
 - **English** - Intermediate/Upper-intermediate according to the online test at **EFset** [efset.org](https://www.efset.org/)
-<img src="https://ibb.co/gr7scRL width="350" height="350" />
+<img src="https://ibb.co/gr7scRL" width="350" height="350" />
